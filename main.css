@@ -53,3 +53,23 @@ background: #191911;
     color: #ffffff;
     text-align: justify;
 }
+.footer{
+    width: 100%;
+    padding: 20px;
+    background: #191919;
+}
+.footer__content{
+    width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__content a,
+.footer__content p{
+    color: #ffffff;
+}
+.footer__content a{
+    font-size: 25px;
+    font-weight: 700;
+}
